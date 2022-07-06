@@ -2,7 +2,7 @@
 a NodeJS API service that implements the transaction payment splitting service (TPSS) requirements shared by LannisterPay
 
 ## 🛠 Tools & Technology
-- Nodejs and Expressjs
+- Nodejs
 
 ## 🖇 How to Start
 
